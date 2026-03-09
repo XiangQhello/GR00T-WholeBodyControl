@@ -1,0 +1,15 @@
+Metadata for: cheshi
+==============================
+
+Body part indexes:
+{'body_0': 0, 'body_1': 1, 'body_2': 4, 'body_3': 3, 'body_4': 2, 'body_5': 5, 'body_6': 3, 'body_7': 6, 'body_8': 7, 'body_9': 3, 'body_10': 3, 'body_11': 3, 'body_12': 7, 'body_13': 7}
+
+Total timesteps: 379
+
+Data arrays summary:
+  joint_pos: (379, 29) (float32)
+  joint_vel: (379, 29) (float32)
+  body_pos_w: (379, 14, 3) (float32)
+  body_quat_w: (379, 14, 4) (float32)
+  body_lin_vel_w: (379, 14, 3) (float32)
+  body_ang_vel_w: (379, 14, 3) (float32)

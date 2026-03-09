@@ -491,7 +491,8 @@ set -e  # Re-enable exit on error
 
 # Always build to ensure we have the latest version
 echo "Building the project..."
-just build
+#just build
+colcon build --cmake-args -DCMAKE_CXX_FLAGS="-pthread"
 
 echo ""
 

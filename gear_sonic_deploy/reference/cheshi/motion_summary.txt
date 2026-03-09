@@ -1,0 +1,11 @@
+G1 Motion Capture Data Summary
+========================================
+
+Total motion sequences: 1
+
+Detailed motion list:
+  cheshi:
+    Timesteps: 379
+    Joints: 29
+    Body parts: 14
+
